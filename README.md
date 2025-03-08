@@ -1,7 +1,3 @@
-# Farkle CPSC 224 Individual Project - HW4 GUI
+# Farkle
 
-Individual Farkle GUI assignment repository for CPSC 224 course
-
-- Student: Cooper Braun 
-- Semester: Fall 2024
-# farkle
+This Java program implements Farkle, a popular dice game of risk and strategy. Players take turns rolling six dice, earning points based on specific scoring combinations. The goal is to reach a set score (e.g., 10,000 points) before the opponents.
